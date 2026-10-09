@@ -1,0 +1,4 @@
+interface:
+  display_name: "动森照片转绘"
+  short_description: "将现实照片转成动物森友会新地平线游戏截图，保留构图与人物线索"
+  default_prompt: "使用 $animal-crossing-photo-transfer 将这张照片转成《动物森友会：新地平线》游戏截图风格，并输出可复用提示词。"
